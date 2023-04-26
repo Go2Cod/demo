@@ -1,1 +1,4 @@
 ESto es una prueba para subir un segunto archivo
+
+
+Hoy es 26 de abril de 2023 y despues de hacer cambios enb el otro archivo y haber abierto un branch me he liado y no se como quitarlo o verlo o lo que sea... a ver que pasa con este si esta vez eligo commit directly abajo
