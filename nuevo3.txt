@@ -1,0 +1,1 @@
+Archivo txt creado desde github en crear nuevo archivo. Tenemos que poner el nombre y la extensión, que en este caso es .txt
